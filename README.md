@@ -1,16 +1,23 @@
-# flutter_project
 
-A new Flutter project.
+# Flutter College ID Card App
+This is a simple Flutter app that displays a college ID card with the following details:
 
-## Getting Started
+* Name
+* Current Semester
+* USNo.
+* Address
+* Blood Group
+* Email
+The app allows the user to increase the current semester count by clicking on the floating action button. The app uses a StatefulWidget to enable the app to update and display the new semester value dynamically.
 
-This project is a starting point for a Flutter application.
+## Getting started
+To run this app on your machine, you will need to have the Flutter SDK installed. Once you have that, clone this repository and run flutter run in your terminal.
 
-A few resources to get you started if this is your first Flutter project:
+## Dependencies
+This app only uses the following dependencies:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+flutter/material.dart
+Credits
+This app was created by [Mouna K Y].
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
